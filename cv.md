@@ -1,7 +1,7 @@
 1. Iryna Pliakhanava  
-2. t.me/plushaaaaa, +375298057964, irkapuh@gmail.com  
+1. t.me/plushaaaaa, +375298057964, irkapuh@gmail.com  
 
-3. I'm 24 years old. I start to learn a new profession Frontend developer, because I'm interested in creating sites and web apps.  
+1. I'm 24 years old. I start to learn a new profession Frontend developer, because I'm interested in creating sites and web apps.  
 
 I have some aims to this course:  
 - compose study plan for learning HTML and CSS, JavaScript,   
@@ -19,11 +19,11 @@ What about my softskills these are:
 - time management,   
 - flexibility.  
 
-4. I have no experience in programming.  
+1. I have no experience in programming.  
 
-5.   
+1.   
 
-6.   
+1.   
 ```
 let a = prompt('input a', );
 let b = prompt('input b', );
@@ -31,6 +31,6 @@ result = ((+a + +b) < 4) ? 'little' : 'much';
 alert(result);
 ```
 
-7. I have a bachelor's degree in medicinal technologist drugs. BSTU, 2017.  
+1. I have a bachelor's degree in medicinal technologist drugs. BSTU, 2017.  
 
-8. My English level is Elementary (A2).  
+1. My English level is Elementary (A2).  
