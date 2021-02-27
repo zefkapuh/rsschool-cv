@@ -23,3 +23,5 @@ let b = prompt('input b', );
 result = ((+a + +b) < 4) ? 'little' : 'much';
 alert(result);
 ```
+7. I have a bachelor's degree in medicinal technologist drugs. BSTU, 2017
+8. My English level is Elementary (A2)
