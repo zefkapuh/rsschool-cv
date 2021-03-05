@@ -1,0 +1,32 @@
+
+  body {
+    width: max-content;
+    height: 100; 
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    margin: auto;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #f7e8e6;
+  }
+
+  .container {
+    width: 300px;
+    margin: 0 auto;
+    padding: 18px 16px;
+    text-align: center;
+  }
+   
+  ul {
+    list-style: none;
+  }
+
+  footer {
+      text-align: right;
+      padding: 18px;
+  }
+  
